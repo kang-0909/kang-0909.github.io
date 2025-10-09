@@ -35,3 +35,5 @@ I am a second-year PhD student in the [Mμ Lab](https://mulabpku.com/) at the In
 # 📖 Educations
 - *2024.09 -*, Ph.D. student, Institute for Artificial Intelligence, Peking University.
 - *2020.09 - 2024.06*, B.E., School of Computer, National University of Defense Technology.
+
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=iegWsAeOZ42QH0HeVfv12xGRHHA5yI0hSQfiV69eetk"></script>
