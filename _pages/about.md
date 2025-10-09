@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at the Institute for Artificial Intelligence at Peking University, advised by Prof. Muhan Zhang. My research centers on large language models, with a focus on strengthening their reasoning abilities and creativity—ultimately enabling them to propose and solve innovative problems that may surpass human capabilities. Before graduate school, I received my bachelor’s degree from National University of Defense Technology, where I worked with Prof. Tiejun Li and Dr. Yanqiang Sun.
+I am a second-year PhD student in the [Mμ Lab](https://mulabpku.com/) at the Institute for Artificial Intelligence, Peking University, advised by Prof. [Muhan Zhang](https://muhanzhang.github.io/). My research centers on large language models, with a focus on strengthening their reasoning abilities and creativity—ultimately enabling them to propose and solve innovative problems that may surpass human capabilities. Before graduate school, I received my bachelor’s degree from National University of Defense Technology, where I worked with Prof. Tiejun Li and Dr. Yanqiang Sun.
 
 
 # 📝 Publications 
