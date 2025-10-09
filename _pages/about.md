@@ -21,7 +21,7 @@ I am a second-year PhD student at the Institute for Artificial Intelligence at P
 
 
 # 📝 Publications 
-- [Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs](https://arxiv.org/abs/2502.11525), Yi Hu*, **Shijia Kang**\*, Haotong Yang, Haotian Xu, Muhan Zhang, *ICML 2025*
+- [Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs](https://arxiv.org/abs/2502.11525), Yi Hu\*, **Shijia Kang**\*, Haotong Yang, Haotian Xu, Muhan Zhang, *ICML 2025*
 - [RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?](https://arxiv.org/abs/2501.11284), Haotian Xu, Xing Wu, Weinong Wang, Zhongzhi Li, Da Zheng, Boyuan Chen, Yi Hu, **Shijia Kang**, Jiaming Ji, Yingying Zhang, Zhijiang Guo, Yaodong Yang, Muhan Zhang, Debing Zhang, 2025
 - [Number cookbook: Number understanding of language models and how to improve it](https://arxiv.org/abs/2411.03766), Haotong Yang, Yi Hu, **Shijia Kang**, Zhouchen Lin, Muhan Zhang, *ICLR 2025*
 - [On the Completeness of Invariant Geometric Deep Learning Models](https://arxiv.org/abs/2402.04836), Zian Li, Xiyuan Wang, **Shijia Kang**, Muhan Zhang, *ICLR 2025*
