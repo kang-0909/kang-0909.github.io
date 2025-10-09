@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shijia Kang"
-description              : "Shijia Kang's Homepage "
+description              : ""
 repository               : "kang-0909/kang-0909.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shijia Kang"
   avatar           : "images/avatar.jpg"
-  bio              : "Peking University"
+  bio              : "We're here to put a dent in the universe"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
