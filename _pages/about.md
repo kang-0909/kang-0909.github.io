@@ -21,6 +21,9 @@ I am a second-year PhD student in the [Mμ Lab](https://mulabpku.com/) at the In
 
 
 # 📝 Publications 
+- [The Road Less Traveled: Enhancing Exploration in LLMs via Sequential Sampling](https://www.arxiv.org/abs/2510.15502), **Shijia Kang**, Muhan Zhang, preprint.
+- [Proof-RM: A Scalable and Generalizable Reward Model for Math Proof](), Haotong Yang, Zitong Wang, **Shijia Kang**, Siqi Yang, Wenkai Yu, Xu Niu, Yike Sun, Yi Hu, Zhouchen Lin, Muhan Zhang, preprint.
+- [GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization](), Juntong Wang, **Shijia Kang**, Xiyuan Wang, Haotong Yang, Da Zheng, Muhan Zhang, preprint.
 - [Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs](https://arxiv.org/abs/2502.11525), Yi Hu\*, **Shijia Kang**\*, Haotong Yang, Haotian Xu, Muhan Zhang, *ICML 2025*
 - [RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?](https://arxiv.org/abs/2501.11284), Haotian Xu, Xing Wu, Weinong Wang, Zhongzhi Li, Da Zheng, Boyuan Chen, Yi Hu, **Shijia Kang**, Jiaming Ji, Yingying Zhang, Zhijiang Guo, Yaodong Yang, Muhan Zhang, Debing Zhang, 2025
 - [Number cookbook: Number understanding of language models and how to improve it](https://arxiv.org/abs/2411.03766), Haotong Yang, Yi Hu, **Shijia Kang**, Zhouchen Lin, Muhan Zhang, *ICLR 2025*
